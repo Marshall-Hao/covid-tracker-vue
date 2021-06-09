@@ -1,7 +1,7 @@
 <template>
 <Header />
-  <div class="container">
-    <router-view />
+  <div class="container mt-0 xl:mt-10 self-center">
+    <router-view/>
   </div>
 </template>
 
