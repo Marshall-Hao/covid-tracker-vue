@@ -8,7 +8,7 @@
       placeholder="Select or Search a Country"
       v-model="value"
       :options="options"
-      :max-height="70"
+      :max-height="100"
       :open-direction="top"
       :show-labels="ok"
       class="mt-1 mb-10 md:mb-0 block w-full border text-lg rounded mt-10 font-bold"
