@@ -16,9 +16,11 @@ This web-app can lets user see the lastest info about the covid around the world
 
 ## Features
 As a User:
-- I can see the covid info around the world, and select by each country
+- I can see the covid info around the world, and select/search by each country (Responsive view supported)
 
 ## Setup
+
+Online Visit (https://covid-tracker-m.web.app/)
 
 For Localhost
 
